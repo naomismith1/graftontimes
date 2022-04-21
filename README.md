@@ -3,7 +3,14 @@ Grafton is a ghost town in Southern UT. Names,dates,and stories are ALL work of 
 ---
 ## Meet the Familes:
 McFate
+- William James 
+- Nancy 
+
+Children :
 - 
+
+
+
 
 ---
 Bareny
