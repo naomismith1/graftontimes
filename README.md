@@ -30,8 +30,8 @@ All of their children passed away on the way to Salt Lake. They are from Denmark
 
 ---
 Platt
-- Frank 1780
-- Emma 1780
+- Frank 1800
+- Emma 1801
 
 GrandChildren:
 - Albert July 04, 1840
