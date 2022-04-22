@@ -48,7 +48,7 @@ Children:
 - Anna May 1, 1850
 - Jane Dec 25, 1852
 - Kate  Nov 20, 1854
-- Edward Junior July 30, 1856 
+- Edward Junior March 30, 1856 
 
 
 
