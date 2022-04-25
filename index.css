@@ -1,6 +1,8 @@
 
     body {background-color: #e76f51;
-        text-align: left;  }
+        text-align: left; 
+      font-size: 18px;
+    font-family: 'Times New Roman', Times, serif; }
    h1{text-align: center;}
    
    nav {
